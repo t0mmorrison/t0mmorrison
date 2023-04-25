@@ -1,1 +1,1 @@
-I am Tom, a iOS developer with a passion for accessibility.
+Hey! I'm Tom, I'm an iOS developer with a passion for accessibility.
